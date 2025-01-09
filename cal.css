@@ -19,7 +19,7 @@ table{
     td{
         height: 20px;
         width: 20px;
-        border-radius: 50%;
+        border-radius: 10px;
         text-align: center;
         background-color: rgb(206, 145, 31);
         color: black;
