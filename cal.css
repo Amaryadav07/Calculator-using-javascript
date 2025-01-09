@@ -82,3 +82,29 @@ table{
         font-weight: lighter;
     }
    
+  
+#dell:active {
+    transform: scale(0.95); 
+}
+
+
+#clears:active {
+    transform: scale(0.95);
+}
+
+
+#same:active {
+    transform: scale(0.95); 
+}
+
+td:active {
+    transform: scale(0.95); 
+}
+#dell, #clears, #same {
+    transition: transform 0.1s ease-in-out;
+}
+
+td {
+    transition: transform 0.1s ease-in-out;
+}
+
